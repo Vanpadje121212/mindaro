@@ -14,7 +14,7 @@
     "universal-cookie": "^4.0.4"
   },
   "devDependencies": {
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.20"
   },
   "scripts": {
     "dev": "nodemon server.js -w server.js -w server -w universal -w next.config.js -w config.js -w package.json",
